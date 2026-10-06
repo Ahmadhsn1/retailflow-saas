@@ -727,3 +727,11 @@ See [`plan.md`](plan.md) for the full build plan.
 <br/>
 <sub>Built for shopkeepers who count in paisa.</sub>
 </div>
+
+## Case study
+
+The engineering decisions, metrics and screenshots for RetailFlow are written up in the [RetailFlow case study](https://ahmadhsn1.github.io/work/retailflow/).
+
+Related writing:
+
+- [Integer Money and Row Level Security in Postgres](https://ahmadhsn1.github.io/blog/integer-money-row-level-security-postgres/)
